@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="500mm"
+   height="300mm"
+   viewBox="0 0 500 300"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient839">
+      <stop
+         style="stop-color:#1f497e;stop-opacity:1"
+         offset="0"
+         id="stop835" />
+      <stop
+         style="stop-color:#00b050;stop-opacity:1"
+         offset="1"
+         id="stop837" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient839"
+       id="linearGradient841"
+       x1="-86.497147"
+       y1="127.00002"
+       x2="160.58049"
+       y2="-25.702383"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0236554,0,0,1.9646058,175.04039,50.495053)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 405.89897,26.828175 17.27968,-10.713773 14.3338,-10.3010227 12.42695,-7.692231 9.02838,-3.558117 10.77145,-1.728523 13.2199,6.61034996"
+       id="path4118-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 540.31342,14.474527 7.79791,1.746304 v 0 l 6.13886,1.023149 14.12547,0.135837 14.81479,-0.135837 14.90863,-2.338626 15.99817,-6.0758119 5.68113,-3.045354"
+       id="path4196-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 537.244,12.720571 10.86733,3.50026 v 0 l 6.13886,1.023149 14.12547,0.135837 14.81479,-0.135837 14.90863,-2.338626 15.99817,-6.0758119 5.68113,-3.045354"
+       id="path4196-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 578.98572,-17.217197 12.46296,-2.518066 11.37282,1.633829 11.8671,4.724241 9.17072,6.9248335 8.29574,5.060553 8.18513,5.554186 c 0,0 9.28137,6.2119405 9.5006,6.5042525 0.21924,0.292338 7.38124,2.923275 7.38124,2.923275 l 3.9464,1.53469"
+       id="path4342-3" />
+    <style
+       id="style6"
+       type="text/css" />
+    <style
+       id="style6-4"
+       type="text/css" />
+    <style
+       id="style6-40"
+       type="text/css" />
+    <style
+       id="style4096"
+       type="text/css" />
+    <style
+       id="style7458"
+       type="text/css" />
+    <style
+       id="style8436"
+       type="text/css" />
+    <style
+       id="style8578"
+       type="text/css" />
+    <style
+       id="style9216"
+       type="text/css" />
+    <style
+       id="style3656"
+       type="text/css" />
+    <style
+       id="style3762"
+       type="text/css" />
+    <style
+       id="style3540"
+       type="text/css" />
+    <style
+       id="style3544"
+       type="text/css" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2643">
+      <path
+         id="path2645"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0891964;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 62.869987,-20.902751 a 83.611279,83.611279 0 0 0 -83.421411,83.610553 83.611279,83.611279 0 0 0 83.610573,83.611808 83.611279,83.611279 0 0 0 83.611791,-83.611808 83.611279,83.611279 0 0 0 -83.611791,-83.610553 83.611279,83.611279 0 0 0 -0.189158,0 z m 0.156589,69.978334 a 13.632273,13.632273 0 0 1 0.0327,0 A 13.632273,13.632273 0 0 1 76.691452,62.707802 13.632273,13.632273 0 0 1 63.059273,76.341243 13.632273,13.632273 0 0 1 49.427022,62.707802 13.632273,13.632273 0 0 1 63.026696,49.075583 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient841);fill-opacity:1;stroke:none;stroke-width:0.0996956;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="500"
+       height="300"
+       x="0"
+       y="0" />
+  </g>
+</svg>
